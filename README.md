@@ -1,10 +1,6 @@
 # Module 10 Challenge
 # SQLAlchemy Challenge
 
-# Assumptions
-1. no blank value for each field in the csv files
-
-# Programming logistics
 # Part 1. climate_starter.ipynb: jupyter file
 1. use SQLAlchemy ORM to query data from sqlLite database file
 2. the output is embedded in Jupyter file
